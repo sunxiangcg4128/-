@@ -13,3 +13,6 @@ class A {
 }
 $obj = new A();
 $obj->test();
+class B extends A {
+
+}
